@@ -1,0 +1,22 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires (verrous LibreOffice, sauvegardes)
+.~lock.*#
+*.bak
+*~
+
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Données 
+data/*.csv
